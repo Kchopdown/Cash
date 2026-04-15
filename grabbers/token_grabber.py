@@ -6,7 +6,6 @@
 # and decided to clarify some comments, fixed some bad code.
 
 # Some refactoring by Astro Orbis
-import ctypes, os, subprocess, re, requests, sys, sqlite3, win32crypt, shutil, json, random, PyChromeDevTools, urllib
 from colorama import Fore
 from string import ascii_uppercase
 
